@@ -34,11 +34,3 @@ Open index.html in your browser to view the website.
 
 Customize and modify the website as needed to fit your requirements!
 
-🛠️ Future Features:
-User account management (login, registration) 🔑
-Property comparison tool ⚖️
-Integration with a real database for live property listings 📊
-Google Maps API for location-based property search 🗺️
-🌍 Demo:
-Check out a live demo of the real estate website.
-
